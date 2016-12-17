@@ -1,5 +1,5 @@
 //
-//  AppointmentsViewController.swift
+//  PeopleViewController.swift
 //  ONAPP
 //
 //  Created by Hayri Can Akyel on 5.12.2016.
@@ -7,3 +7,10 @@
 //
 
 import Foundation
+import UIKit
+import Firebase
+import FirebaseAuth
+
+class PeopleViewController: UIViewController {
+    
+}
